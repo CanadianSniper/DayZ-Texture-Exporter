@@ -22,7 +22,7 @@ How to use this script:
   C:\\Program Files (x86)\\Steam\\steamapps\\common\\DayZ Tools\\Bin\\ImageToPAA\\ImageToPAA.exe
   ```
 
-4. Place `TexConvert.py` and your `dayz_texture_exporter_icon.ico` (optional) in the same folder.
+4. Place `TexConvert.py`in a folder.
 
 5. Run the script:
 - Open a terminal in this folder.
